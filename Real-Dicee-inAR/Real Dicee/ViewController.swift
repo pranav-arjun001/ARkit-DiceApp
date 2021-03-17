@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Real Dicee
-//
-//  Created by Angela Yu on 12/07/2017.
-//  Copyright © 2017 Angela Yu. All rights reserved.
-//
-
 import UIKit
 import SceneKit
 import ARKit
